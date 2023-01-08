@@ -20,7 +20,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 5.	Divided the train dataset into x_train and y_train for training the model
 6.	Divided the test dataset into y_train and y_test for finding the accuracy score of the model
 
-####Conclusion
+#### Conclusion
 
 Accuracy Score is 0.9256871394638616
 Precision score is 0.93   and recall score is 0.93
